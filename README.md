@@ -1,6 +1,8 @@
 # Modchat
 A minetest mod for chatting with moderators seperatly from other players.
 
+![Screenshot] (screenshot.png)
+
 # How to setup the moderator?
 To tell modchat that a player is a moderator, grant him/her the modchat privilege!<br>
 <br>
